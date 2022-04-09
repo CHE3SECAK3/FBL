@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Desktop\\Everything\\Projects\\Hackathon2022\\FBL\\FBL\\FBL\\FBL.csproj": {}
+    "C:\\Users\\srini\\Documents\\GitHub\\FBL\\FBL\\FBL\\FBL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Desktop\\Everything\\Projects\\Hackathon2022\\FBL\\FBL\\FBL\\FBL.csproj": {
+    "C:\\Users\\srini\\Documents\\GitHub\\FBL\\FBL\\FBL\\FBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Everything\\Projects\\Hackathon2022\\FBL\\FBL\\FBL\\FBL.csproj",
+        "projectUniqueName": "C:\\Users\\srini\\Documents\\GitHub\\FBL\\FBL\\FBL\\FBL.csproj",
         "projectName": "FBL",
-        "projectPath": "C:\\Users\\alexa\\Desktop\\Everything\\Projects\\Hackathon2022\\FBL\\FBL\\FBL\\FBL.csproj",
-        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Desktop\\Everything\\Projects\\Hackathon2022\\FBL\\FBL\\FBL\\obj\\",
+        "projectPath": "C:\\Users\\srini\\Documents\\GitHub\\FBL\\FBL\\FBL\\FBL.csproj",
+        "packagesPath": "C:\\Users\\srini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\srini\\Documents\\GitHub\\FBL\\FBL\\FBL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\srini\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

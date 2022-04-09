@@ -1,0 +1,22 @@
+﻿FBL - Foodback Loop
+
+UserType:
+	1. Looper
+		
+
+	2. Consumer
+		- Make order
+		- Pay for order
+		- Ping carrier
+			- MSG system
+		- Check status
+		- Input location of delivery
+
+	3. Carrier
+		- Clock in/out
+		- Receive order
+		- Ping consumer
+		- Output status
+		- Receive location of delivery
+		- Get paid
+	

@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace FBL.Dataclass
 {
-    class Looper
+    enum FBLer
     {
-        
+        None = 0,
+        Consumer = 1,
+        Carrier = 1 << 1,
+        Looper = Consumer | Carrier
     }
 }
