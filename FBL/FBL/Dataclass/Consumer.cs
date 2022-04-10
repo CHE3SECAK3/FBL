@@ -12,9 +12,9 @@ namespace FBL.Dataclass
 
         public Consumer() { }
 
-        public void requestOrderSubmission() { }
-        public void makeOrder() { }
-        public void payForOrder() { }
+        public void requestOrderSubmission() { } //requires API
+        public void makeOrder() { }   //requires API
+        public void payForOrder() { } //requires API
         public void selectCarrier() { }
         public void selectDeliveryLocation() { }
         public void checkStatusOfOrder() { }
